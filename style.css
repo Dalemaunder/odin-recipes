@@ -1,0 +1,29 @@
+* {
+    margin: 0;    
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #c9c7b9;
+    font-family: "Courier New", monospace;
+}
+
+.title {
+    text-align: center;
+    font-size: 4vw;
+}
+
+.list {
+    margin-top: 50px;
+    text-align: center;
+}
+
+li {
+    padding: 5px;
+}
+
+.bottom-line {
+    width: 25%;
+    margin: 20px auto;
+}
